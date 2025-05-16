@@ -22,9 +22,13 @@ A Computer Systems Engineering student at ESCOM, IPN
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&theme=dark&layout=compact" alt="Top Languages" width="100%" />
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="40%" align="center" >
       <a href="https://github.com/Asaph-Velazquez">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE2cm10dG9jNXd1enNranUzNzAyMTBnNDEzdnZiOHQ0MXhxaTJycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="Coding GIF" width="100%" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBrYjVtdDVtaWlpcWgwYXpvdDU3emMweXV3aWpsdnIxam1xbjRwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" alt="Coding GIF" width="100%" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Asaph-Velazquez">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE2cm10dG9jNXd1enNranUzNzAyMTBnNDEzdnZiOHQ0MXhxaTJycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="System GIF" width="100%" />
       </a>
     </td>
   </tr>
