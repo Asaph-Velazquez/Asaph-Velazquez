@@ -12,28 +12,28 @@ A Computer Systems Engineering student at ESCOM, IPN
 
 "Confusion is part of Programming"
 
-<!--Main container with display flex -->
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between;">
-  
-  <!-- Left column for the statistics -->
-  <div style="flex: 1; min-width: 300px; padding: 10px;">
-    <h3>📊 GitHub Statistics</h3>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>📊 GitHub Statistics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%" />
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asaph-Velazquez&theme=dark" alt="streak stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asaph-Velazquez&theme=dark" alt="streak stats" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&theme=dark&layout=compact" alt="Top Languages" />
-    </div>
-  </div>
-  
-  <!-- Right column for the GIF -->
-  <div style="flex: 1; min-width: 300px; padding: 10px; display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/Asaph-Velazquez">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE2cm10dG9jNXd1enNranUzNzAyMTBnNDEzdnZiOHQ0MXhxaTJycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="divider"/>
-    </a>
-  </div>
-  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&theme=dark&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td width="40%" align="center" valign="top">
+      <a href="https://github.com/Asaph-Velazquez">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE2cm10dG9jNXd1enNranUzNzAyMTBnNDEzdnZiOHQ0MXhxaTJycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="Coding GIF" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Asaph-Velazquez">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+  </a>
 </div>
 
 <!-- final div -->
