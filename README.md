@@ -21,6 +21,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asaph-Velazquez&theme=dark" alt="streak stats" />  
 ![Asaph-Velazquez's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&theme=dark&layout=compact)
 
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 ---
 
 ### 🔭 I’m currently working on **React, Node.js, PostgreSQL, academic systems and VHDL logic.**
@@ -31,17 +34,15 @@
 
 ### 💬 Ask me about **Python, React, Node.js, PostgreSQL, MySQL, or any of the techs listed below.**
 
+<div style="text-align: center;">
 <a href="https://github.com/Asaph-Velazquez"><img src="https://skillicons.dev/icons?i=py,html,js,c,postgres,mysql,react,linux,java,github,nodejs,ts&perline=8" alt="tech stack"/></a>
 
 <a href="https://github.com/Asaph-Velazquez"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/></a>
-
+</div>
 ## Contact me :
 
 📫 [![Gmail Badge](https://img.shields.io/badge/-saulvelpa120@gmail.com-blue?style=flat-rounded-square&logo=Gmail&logoColor=white&link=mailto:saulvelpa120@gmail.com)](mailto:saulvelpa120@gmail.com)  
 🐦 [![Twitter Badge](https://img.shields.io/badge/-@Zerox141-1DA1F2?style=flat-rounded-square&logo=Twitter&logoColor=white&link=https://x.com/Zerox141)](https://x.com/Zerox141)
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
 
