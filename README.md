@@ -57,7 +57,7 @@ A Computer Systems Engineering student at ESCOM, IPN
 
 <div align="center">
   <a href="https://github.com/Asaph-Velazquez">
-    <img src="https://skillicons.dev/icons?i=py,html,js,c,postgres,mysql,react,linux,java,github,nodejs,ts&perline=6" alt="tech stack"/>
+    <img src="https://skillicons.dev/icons?i=py,html,js,ts,c,postgres,mysql,react,linux,java,git,github,nodejs,django&perline=7" alt="tech stack"/>
   </a>
 </div>
 <div align="center">
