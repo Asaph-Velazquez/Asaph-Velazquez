@@ -16,11 +16,11 @@ A Computer Systems Engineering student at ESCOM, IPN
   <tr>
     <td width="60%" valign="top">
       <h3>📊 GitHub Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asaph-Velazquez&theme=github_dark" alt="GitHub Stats" width="50%" style="display:block; margin:auto;"/>
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asaph-Velazquez&theme=dark" alt="streak stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Asaph-Velazquez&theme=dark" alt="streak stats" width="70%"  style="display:block; margin:auto;" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&theme=dark&layout=compact" alt="Top Languages" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asaph-Velazquez&theme=github_dark" alt="Top Languages" width="50%" style="display:block; margin:auto;"/>
     </td>
     <td width="40%" align="center" >
       <a href="https://github.com/Asaph-Velazquez">
