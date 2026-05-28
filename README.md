@@ -43,31 +43,24 @@ A Computer Systems Engineering student at ESCOM, IPN
 
 ## <img src="https://skillicons.dev/icons?i=tools" width="25"/> Tech Stack
 
-### Frontend
+## <img src="https://skillicons.dev/icons?i=react" width="25"/> Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui&perline=7" />
 </div>
 
-### Backend
+## <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Backend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py,django,java&perline=7" />
 </div>
 
-### Databases
+## <img src="https://skillicons.dev/icons?i=postgres" width="25"/> Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=7" />
 </div>
 
-### DevOps & Tools
+## <img src="https://skillicons.dev/icons?i=docker" width="25"/> DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,maven,git,github,azure&perline=7" />
-</div>
-
-### Extras
-<div align="center">
-  <img src="https://img.shields.io/badge/VHDL-Logic-orange?style=for-the-badge&logo=circuitverse&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-Java-green?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-AES%2FSHA256-blue?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 </div>
 
 ---
