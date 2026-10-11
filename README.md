@@ -45,7 +45,7 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asaph-Velazquez&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asaph-Velazquez&theme=tokyonight" width="95%" alt="GitHub activity summary" />
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Focus areas
