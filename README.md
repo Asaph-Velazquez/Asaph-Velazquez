@@ -51,6 +51,8 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 ## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Focus areas
 
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=80" width="95%" alt="Mountain landscape at sunset" />
+  <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Writing+clean+and+maintainable+code;Learning+something+new+every+day;Turning+creative+ideas+into+software;Building+useful+and+scalable+solutions" alt="Focus areas animation" />
 </div>
 
