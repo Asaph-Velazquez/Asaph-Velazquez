@@ -3,27 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Asaph%20Velazquez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Header banner" />
 
   <a href="https://github.com/Asaph-Velazquez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph+%F0%9F%91%8B;Building+ideas+with+code+%F0%9F%92%BB;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Confusion+is+part+of+programming+%F0%9F%98%84" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph;Building+ideas+with+code;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Confusion+is+part+of+programming" alt="Typing animation" />
   </a>
-
-  <p>
-    <a href="https://github.com/Asaph-Velazquez?tab=followers"><img src="https://img.shields.io/github/followers/Asaph-Velazquez?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" /></a>
-    <a href="https://github.com/Asaph-Velazquez"><img src="https://komarev.com/ghpvc/?username=Asaph-Velazquez&style=for-the-badge&color=06b6d4&label=Profile+Views" alt="Profile views" /></a>
-  </p>
 
 </div>
 
-## 👨‍💻 About me
+## <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /> About me
 
 I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN**, interested in creating useful, scalable and well-designed software.
 
-- 🔭 Currently working with React, Node.js, PostgreSQL, academic systems and VHDL logic.
-- 🌱 Learning scalable full-stack development with JavaScript/TypeScript and backend optimization.
-- 🐧 I enjoy Linux development environments, backend design and solving challenging problems.
-- 💬 Ask me about Python, React, Node.js, PostgreSQL, MySQL or the technologies below.
-- ⚡ Fun fact: *Confusion is part of programming.*
+- Currently working with React, Node.js, PostgreSQL, academic systems and VHDL logic.
+- Learning scalable full-stack development with JavaScript/TypeScript and backend optimization.
+- I enjoy Linux development environments, backend design and solving challenging problems.
+- Ask me about Python, React, Node.js, PostgreSQL, MySQL or the technologies below.
+- Fun fact: *Confusion is part of programming.*
 
-## 🛠️ Tech stack
+## <img src="https://skillicons.dev/icons?i=code" width="24" alt="Code" /> Tech stack
 
 <div align="center">
 
@@ -38,7 +33,7 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 
 </div>
 
-## 📊 GitHub activity
+## <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /> GitHub activity
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
@@ -53,7 +48,7 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asaph-Velazquez&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
 </div>
 
-## 🎯 What I care about
+## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> What I care about
 
 ```text
 Clean code       ███████████████████░  95%
@@ -62,7 +57,7 @@ Creative ideas   ██████████████████░░  9
 Coffee           ███████████████████░  95%
 ```
 
-## 🤝 Let's connect
+## <img src="https://skillicons.dev/icons?i=gmail" width="24" alt="Contact" /> Let's connect
 
 <div align="center">
   <a href="mailto:saulvelpa120@gmail.com"><img src="https://img.shields.io/badge/Email-saulvelpa120%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
