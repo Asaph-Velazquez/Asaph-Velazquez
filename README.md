@@ -48,14 +48,11 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asaph-Velazquez&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
 </div>
 
-## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> What I care about
+## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Focus areas
 
-```text
-Clean code       ███████████████████░  95%
-Learning         ████████████████████ 100%
-Creative ideas   ██████████████████░░  90%
-Coffee           ███████████████████░  95%
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Writing+clean+and+maintainable+code;Learning+something+new+every+day;Turning+creative+ideas+into+software;Building+useful+and+scalable+solutions" alt="Focus areas animation" />
+</div>
 
 ## <img src="https://skillicons.dev/icons?i=gmail" width="24" alt="Contact" /> Let's connect
 
