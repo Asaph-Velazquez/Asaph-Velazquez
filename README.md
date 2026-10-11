@@ -48,13 +48,14 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asaph-Velazquez&theme=tokyonight" width="95%" alt="GitHub activity summary" />
 </div>
 
-## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Focus areas
+## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Developer journey
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=80" width="95%" alt="Mountain landscape at sunset" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Writing+clean+and+maintainable+code;Learning+something+new+every+day;Turning+creative+ideas+into+software;Building+useful+and+scalable+solutions" alt="Focus areas animation" />
-</div>
+| Stage | Focus | What I am building |
+|:---:|:---|:---|
+| **01** | **Foundations** | Computer Systems Engineering at ESCOM, IPN, with a focus on logic, Linux and software fundamentals. |
+| **02** | **Systems thinking** | Academic systems, VHDL logic and database design with PostgreSQL, MySQL and MongoDB. |
+| **03** | **Full-stack development** | Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma. |
+| **04** | **Next chapter** | Scalable backend architecture, clean code and products that solve real problems. |
 
 ## <img src="https://skillicons.dev/icons?i=gmail" width="24" alt="Contact" /> Let's connect
 
