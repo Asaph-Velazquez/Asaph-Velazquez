@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:f59e0b,100:facc15&height=220&section=header&text=Asaph%20Velazquez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Header banner" />
 
   <a href="https://github.com/Asaph-Velazquez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph;Building+ideas+with+code;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Confusion+is+part+of+programming" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph;Building+ideas+with+code;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Always+learning+and+building" alt="Typing animation" />
   </a>
 
 </div>
@@ -16,7 +16,6 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 - Learning scalable full-stack development with JavaScript/TypeScript and backend optimization.
 - I enjoy Linux development environments, backend design and solving challenging problems.
 - Ask me about Python, React, Node.js, PostgreSQL, MySQL or the technologies below.
-- Fun fact: *Confusion is part of programming.*
 
 ## <img src="https://skillicons.dev/icons?i=code" width="24" alt="Code" /> Tech stack
 
