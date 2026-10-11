@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Asaph%20Velazquez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:f59e0b,100:facc15&height=220&section=header&text=Asaph%20Velazquez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Header banner" />
 
   <a href="https://github.com/Asaph-Velazquez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph;Building+ideas+with+code;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Confusion+is+part+of+programming" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph;Building+ideas+with+code;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Confusion+is+part+of+programming" alt="Typing animation" />
   </a>
 
 </div>
@@ -36,16 +36,16 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 ## <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /> GitHub activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Asaph-Velazquez&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Asaph-Velazquez&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asaph-Velazquez&theme=tokyonight" width="95%" alt="GitHub activity summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asaph-Velazquez&theme=gruvbox" width="95%" alt="GitHub activity summary" />
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Developer journey
@@ -68,5 +68,5 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:f59e0b,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
 </div>
