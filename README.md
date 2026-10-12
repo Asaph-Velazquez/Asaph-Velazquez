@@ -78,5 +78,11 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 <br>
 
 <div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Perfect Loop animation" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:f59e0b,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
 </div>
