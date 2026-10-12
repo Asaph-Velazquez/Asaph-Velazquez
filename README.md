@@ -10,12 +10,23 @@
 
 ## <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /> About me
 
+<table>
+  <tr>
+    <td width="68%" valign="top">
+
 I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN**, interested in creating useful, scalable and well-designed software.
 
 - Currently working with React, Node.js, PostgreSQL, academic systems and VHDL logic.
 - Learning scalable full-stack development with JavaScript/TypeScript and backend optimization.
 - I enjoy Linux development environments, backend design and solving challenging problems.
 - Ask me about Python, React, Node.js, PostgreSQL, MySQL or the technologies below.
+
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180" alt="Animated skills illustration" />
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://skillicons.dev/icons?i=code" width="24" alt="Code" /> Tech stack
 
