@@ -16,7 +16,7 @@
 
 I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN**, interested in creating useful, scalable and well-designed software.
 
-- Currently working with React, Node.js, PostgreSQL, academic systems and VHDL logic.
+- Currently working with React, Node.js, PostgreSQL and academic systems.
 - Learning scalable full-stack development with JavaScript/TypeScript and backend optimization.
 - I enjoy Linux development environments, backend design and solving challenging problems.
 - Ask me about Python, React, Node.js, PostgreSQL, MySQL or the technologies below.
@@ -68,10 +68,10 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
     <td width="74%" valign="top">
       <table>
         <tr><th>Stage</th><th>Journey</th></tr>
-        <tr><td align="center"><b>01</b></td><td><b>Foundations</b><br>Computer Systems Engineering at ESCOM, IPN, with a focus on logic, Linux and software fundamentals.</td></tr>
-        <tr><td align="center"><b>02</b></td><td><b>Systems thinking</b><br>Academic systems, VHDL logic and database design with PostgreSQL, MySQL and MongoDB.</td></tr>
+        <tr><td align="center"><b>01</b></td><td><b>Foundations</b><br>Computer Systems Engineering at ESCOM, IPN, building a foundation in software development and systems design.</td></tr>
+        <tr><td align="center"><b>02</b></td><td><b>Systems thinking</b><br>Database design, modular applications and the principles behind reliable software systems.</td></tr>
         <tr><td align="center"><b>03</b></td><td><b>Full-stack development</b><br>Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma.</td></tr>
-        <tr><td align="center"><b>04</b></td><td><b>Next chapter</b><br>Scalable backend architecture, clean code and products that solve real problems.</td></tr>
+        <tr><td align="center"><b>04</b></td><td><b>Next chapter</b><br>Software architecture, scalable backend systems, clean code and products that solve real problems.</td></tr>
       </table>
     </td>
   </tr>
