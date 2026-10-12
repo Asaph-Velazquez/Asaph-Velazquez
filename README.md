@@ -1,83 +1,99 @@
-<!-- RAINBOW LINE TOP -->
 <div align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  <!-- GIF HEADER -->
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-  <h1>Hello There</h1>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:f59e0b,100:facc15&height=220&section=header&text=Asaph%20Velazquez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Architect&descAlignY=60&descSize=16" width="100%" alt="Header banner" />
+
+  <a href="https://github.com/Asaph-Velazquez">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Asaph;Building+ideas+with+code;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Always+learning+and+building" alt="Typing animation" />
+  </a>
+
 </div>
 
-👋 Hi, I'm Asaph Velazquez  
-A Computer Systems Engineering student at ESCOM, IPN  
+## <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /> About me
 
-*"Confusion is part of Programming"*
-
----
-
-## <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub Statistics
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asaph-Velazquez&theme=github_dark" alt="GitHub Stats" width="50%" style="display:block; margin:auto;"/>
-      <br><br>
-      <img src="https://streak-stats.demolab.com/?user=Asaph-Velazquez&theme=dark" alt="streak stats" width="70%"  style="display:block; margin:auto;" />
-      <br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asaph-Velazquez&theme=github_dark" alt="Top Languages" width="50%" style="display:block; margin:auto;"/>
+    <td width="68%" valign="top">
+
+I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN**, interested in creating useful, scalable and well-designed software.
+
+- Currently working with React, Node.js, PostgreSQL and academic systems.
+- Learning scalable full-stack development with JavaScript/TypeScript and backend optimization.
+- I enjoy Linux development environments, backend design and solving challenging problems.
+- Ask me about Python, React, Node.js, PostgreSQL, MySQL or the technologies below.
+
     </td>
-    <td width="40%" align="center" >
-      <img src="https://media3.giphy.com/media/ggK04fdPVARRtH8w7G/giphy.gif" alt="Coding GIF" width="100%" />
-      <br><br>
-      <img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="System GIF" width="100%" />
+    <td width="32%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180" alt="Animated skills illustration" />
     </td>
   </tr>
 </table>
 
----
+## <img src="https://skillicons.dev/icons?i=code" width="24" alt="Code" /> Tech stack
 
-## <img src="https://skillicons.dev/icons?i=react" width="25"/> What I'm up to
-- Working on React, Node.js, PostgreSQL, academic systems and VHDL logic  
-- Learning scalable full-stack development with JavaScript/TypeScript and backend optimization  
-- Passionate about Linux development environments and backend design  
-- Ask me about Python, React, Node.js, PostgreSQL, MySQL or any of the techs listed below  
-
----
-
-## <img src="https://skillicons.dev/icons?i=tools" width="25"/> Tech Stack
-
-## <img src="https://skillicons.dev/icons?i=react" width="25"/> Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui&perline=7" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui&perline=8" alt="Frontend technologies" />
+
+### Backend, databases and tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py,django,java,postgres,mysql,mongodb&perline=9" alt="Backend and database technologies" />
+
+### DevOps and development environment
+<img src="https://skillicons.dev/icons?i=docker,linux,maven,git,github,azure,vscode&perline=7" alt="DevOps technologies" />
+
 </div>
 
-## <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py,django,java&perline=7" />
-</div>
+## <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /> GitHub activity
 
-## <img src="https://skillicons.dev/icons?i=postgres" width="25"/> Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=7" />
-</div>
-
-## <img src="https://skillicons.dev/icons?i=docker" width="25"/> DevOps & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,maven,git,github,azure&perline=7" />
-</div>
-
----
-
-## <img src="https://skillicons.dev/icons?i=gmail" width="25"/> Contact me
-<div align="center">
-  <a href="mailto:saulvelpa120@gmail.com">
-    <img src="https://img.shields.io/badge/-saulvelpa120@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <br>
-  <a href="https://x.com/Zerox141">
-    <img src="https://img.shields.io/badge/-@Zerox141-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asaph-Velazquez&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaph-Velazquez&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <sub>Credit: <a href="https://github.com/Asaph-Velazquez">Asaph Velazquez</a></sub>
-  <br>
-  <sub>Last Edited on: 16/05/2025</sub>
+  <img src="https://streak-stats.demolab.com?user=Asaph-Velazquez&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asaph-Velazquez&theme=gruvbox" width="95%" alt="GitHub activity summary" />
+</div>
+
+## <img src="https://skillicons.dev/icons?i=git" width="24" alt="Development" /> Developer journey
+
+<table>
+  <tr>
+    <td width="26%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="180" alt="Animated coworking scene" />
+    </td>
+    <td width="74%" valign="top">
+      <b>01 · Foundations</b><br>
+      Computer Systems Engineering at ESCOM, IPN, building a foundation in software development and systems design.<br><br>
+      <b>02 · Systems thinking</b><br>
+      Database design, modular applications and the principles behind reliable software systems.<br><br>
+      <b>03 · Full-stack development</b><br>
+      Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma.<br><br>
+      <b>04 · Next chapter</b><br>
+      Software architecture, scalable backend systems, clean code and products that solve real problems.
+    </td>
+  </tr>
+</table>
+
+## <img src="https://skillicons.dev/icons?i=gmail" width="24" alt="Contact" /> Let's connect
+
+<div align="center">
+  <a href="mailto:saulvelpa120@gmail.com"><img src="https://img.shields.io/badge/Email-saulvelpa120%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Zerox141"><img src="https://img.shields.io/badge/X-%40Zerox141-111827?style=for-the-badge&logo=x&logoColor=white" alt="X profile" /></a>
+  <a href="https://github.com/Asaph-Velazquez"><img src="https://img.shields.io/badge/GitHub-Asaph--Velazquez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Perfect Loop animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:f59e0b,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
 </div>
