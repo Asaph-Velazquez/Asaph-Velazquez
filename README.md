@@ -67,7 +67,7 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180" alt="Animated cat walking" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="180" alt="Animated pixel dinosaur" />
   <p><sub>A little companion for the journey.</sub></p>
 </div>
 
