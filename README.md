@@ -67,7 +67,7 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4azQzYzdva2w2bWp2MDAxZXhob2w2MjM2aTFlMzE2cHB0NTR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U8wCBLhkjNknS/giphy.gif" width="180" alt="Animated profile companion" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR4azQzYzdva2w2bWp2MDAxZXhob2w2MjM2aTFlMzE2cHB0NTR5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U8wCBLhkjNknS/giphy.gif" width="100%" alt="Animated profile companion" />
   <p><sub>A little companion for the journey.</sub></p>
 </div>
 
