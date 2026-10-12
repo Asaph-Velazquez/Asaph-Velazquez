@@ -66,13 +66,14 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
       <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="180" alt="Animated coworking scene" />
     </td>
     <td width="74%" valign="top">
-      <table>
-        <tr><th>Stage</th><th>Journey</th></tr>
-        <tr><td align="center"><b>01</b></td><td><b>Foundations</b><br>Computer Systems Engineering at ESCOM, IPN, building a foundation in software development and systems design.</td></tr>
-        <tr><td align="center"><b>02</b></td><td><b>Systems thinking</b><br>Database design, modular applications and the principles behind reliable software systems.</td></tr>
-        <tr><td align="center"><b>03</b></td><td><b>Full-stack development</b><br>Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma.</td></tr>
-        <tr><td align="center"><b>04</b></td><td><b>Next chapter</b><br>Software architecture, scalable backend systems, clean code and products that solve real problems.</td></tr>
-      </table>
+      <b>01 · Foundations</b><br>
+      Computer Systems Engineering at ESCOM, IPN, building a foundation in software development and systems design.<br><br>
+      <b>02 · Systems thinking</b><br>
+      Database design, modular applications and the principles behind reliable software systems.<br><br>
+      <b>03 · Full-stack development</b><br>
+      Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma.<br><br>
+      <b>04 · Next chapter</b><br>
+      Software architecture, scalable backend systems, clean code and products that solve real problems.
     </td>
   </tr>
 </table>
