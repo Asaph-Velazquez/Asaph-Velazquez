@@ -62,16 +62,16 @@ I'm **Asaph Velazquez**, a Computer Systems Engineering student at **ESCOM, IPN*
 
 <table>
   <tr>
-    <td width="32%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="260" alt="Animated coworking scene" />
+    <td width="26%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="180" alt="Animated coworking scene" />
     </td>
-    <td width="68%" valign="top">
+    <td width="74%" valign="top">
       <table>
-        <tr><th>Stage</th><th>Focus</th><th>What I am building</th></tr>
-        <tr><td align="center"><b>01</b></td><td><b>Foundations</b></td><td>Computer Systems Engineering at ESCOM, IPN, with a focus on logic, Linux and software fundamentals.</td></tr>
-        <tr><td align="center"><b>02</b></td><td><b>Systems thinking</b></td><td>Academic systems, VHDL logic and database design with PostgreSQL, MySQL and MongoDB.</td></tr>
-        <tr><td align="center"><b>03</b></td><td><b>Full-stack development</b></td><td>Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma.</td></tr>
-        <tr><td align="center"><b>04</b></td><td><b>Next chapter</b></td><td>Scalable backend architecture, clean code and products that solve real problems.</td></tr>
+        <tr><th>Stage</th><th>Journey</th></tr>
+        <tr><td align="center"><b>01</b></td><td><b>Foundations</b><br>Computer Systems Engineering at ESCOM, IPN, with a focus on logic, Linux and software fundamentals.</td></tr>
+        <tr><td align="center"><b>02</b></td><td><b>Systems thinking</b><br>Academic systems, VHDL logic and database design with PostgreSQL, MySQL and MongoDB.</td></tr>
+        <tr><td align="center"><b>03</b></td><td><b>Full-stack development</b><br>Modern interfaces with React and TypeScript, supported by Node.js, Express and Prisma.</td></tr>
+        <tr><td align="center"><b>04</b></td><td><b>Next chapter</b><br>Scalable backend architecture, clean code and products that solve real problems.</td></tr>
       </table>
     </td>
   </tr>
